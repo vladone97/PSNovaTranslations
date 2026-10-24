@@ -2011,7 +2011,7 @@
   },
   "102010040130004": {
     "OriginalText": "できるよな？",
-    "Text": "Can you do it?",
+    "Text": "Can you handle it?",
     "Enabled": true
   },
   "102010040135000": {
@@ -2031,12 +2031,12 @@
   },
   "102010040150004": {
     "OriginalText": "オレ、艦長。お前、断れない。残念だったな！",
-    "Text": "I'm the Captain, so you can't refuse.\nToo bad for you!",
+    "Text": "Well, I'm the Captain, so you can't refuse.\nToo bad for you!",
     "Enabled": true
   },
   "102010040160001": {
     "OriginalText": "分かってますよ。やりますよ！\nセイルもイズナも巻き込んでやる！",
-    "Text": "I know. I'll do it!\nI'll drag Sail and Izuna!",
+    "Text": "I know. I'll do it!\nI'll drag Sail and Izuna with me if\nI have to!",
     "Enabled": true
   },
   "102010040170004": {
@@ -2046,17 +2046,17 @@
   },
   "102010040180001": {
     "OriginalText": "……いつか余裕っちゅ！\nって報告してやりますよ！",
-    "Text": "If we get back someday...\nI'm reporting you!",
+    "Text": "Just you wait, we'll get it done in no time!",
     "Enabled": true
   },
   "102010040190004": {
     "OriginalText": "ははっ、頼もしいな！",
-    "Text": "Haha, I'll leave it to you then!",
+    "Text": "Haha, that's good to know!",
     "Enabled": true
   },
   "102010040200007": {
     "OriginalText": "その時はいくらでも任務のハードルを\n上げてあげるから、安心なさい。",
-    "Text": "At the moment, I can raise the toil of the\nmission as you like, you can rest assured\nthat.",
+    "Text": "Don't worry, if you find this mission too simple,\nI can give you something more complex\nthan that.",
     "Enabled": true
   },
   "102010040210001": {
@@ -2066,12 +2066,12 @@
   },
   "102010040220004": {
     "OriginalText": "悪魔かもな？",
-    "Text": "Maybe a devil?",
+    "Text": "More like a devil.",
     "Enabled": true
   },
   "102010040230007": {
     "OriginalText": "あら、天使よ？ よく言われるわ。\nねえ、レイヴァン？",
-    "Text": "Oh, an angel? I'm often told that.\nRight, Raven?",
+    "Text": "Oh, an angel? I get that a lot.\nRight, Raven?",
     "Enabled": true
   },
   "102010040240005": {
@@ -2081,17 +2081,17 @@
   },
   "102020015010001": {
     "OriginalText": "あんな大きな結晶があるなんてね。",
-    "Text": "That crystal is big.",
+    "Text": "That crystal is huge.",
     "Enabled": true
   },
   "102020015020003": {
     "OriginalText": "あんなの初めてです……。",
-    "Text": "It's my first time seeing it....",
+    "Text": "I've never seen one like this before.",
     "Enabled": true
   },
   "102020015030002": {
     "OriginalText": "やったな！ これだけでかいのがあるなら、\n探せばもっとありそうだぞ！",
-    "Text": "Yay! This is all what we need,\nbet we can find more here!",
+    "Text": "Yeah! If we keep searching here, I bet\nwe'll find all the Gran we need!",
     "Enabled": true
   },
   "102020015040001": {
@@ -2101,17 +2101,17 @@
   },
   "102020015050002": {
     "OriginalText": "なんでだ？ １００個ぐらい集めて帰ろうぜ！",
-    "Text": "Why?\nLet's gather about 100 and then we go home!",
+    "Text": "Why?\nLet's gather about 100 and then go home!",
     "Enabled": true
   },
   "102020015060001": {
     "OriginalText": "まだ強気に行動するのは早いかなって思うの。",
-    "Text": "I think it's too early to act cocky.",
+    "Text": "It's still too early to act cocky.",
     "Enabled": true
   },
   "102020015070002": {
     "OriginalText": "オレ様は余裕ありまくりだぜ！ 平気だって！",
-    "Text": "I am very confident! I'm fine!",
+    "Text": "Come on, look how far we got!\nI'll be fine!",
     "Enabled": true
   },
   "102020015080001": {
@@ -2121,7 +2121,7 @@
   },
   "102020015090002": {
     "OriginalText": "お前は違うのか？",
-    "Text": "You've haven't?",
+    "Text": "You haven't?",
     "Enabled": true
   },
   "102020015100001": {
@@ -2131,47 +2131,47 @@
   },
   "102020015110003": {
     "OriginalText": "それは気付きませんでした。",
-    "Text": "I didn't notice it.",
+    "Text": "You didn't seem worried.",
     "Enabled": true
   },
   "102020015120001": {
     "OriginalText": "[ruby]相棒[/ruby]もだけど、みんなすごいよ。\nもう自信持って戦えてるんだから。",
-    "Text": "Everyone is amazing, even Buddy.\nI'm only confident in my fighting.",
+    "Text": "You're all amazing, even Buddy.\nYou all fight with so much confidence.",
     "Enabled": true
   },
   "102020015125000": {
     "OriginalText": "ルティナも自信を持とう",
-    "Text": "Have more confidence, Lutina.",
+    "Text": "You should be confidnet too, Lutina.",
     "Enabled": true
   },
   "102020015130001": {
     "OriginalText": "簡単には自信なんてつかないよ。\n今もついてくので精一杯でさ……。",
-    "Text": "I can't easily get confident.\nI'll just follow you, so I'll do my best...",
+    "Text": "It's not that simple. Even when I fight\ntogether with you, I can barely keep up...",
     "Enabled": true
   },
   "102020015135000": {
     "OriginalText": "気付かなくてごめん",
-    "Text": "I'm sorry I didn't know.",
+    "Text": "I'm sorry, I didn't know how worried you were.",
     "Enabled": true
   },
   "102020015140001": {
     "OriginalText": "ううん、他人なんか\n気にしてられる状況じゃないし。\nみんな自分で手一杯だよね。",
-    "Text": "Well, I don't like to be carried by others.\nEveryone's already got their hands full.",
+    "Text": "I don't want to be carried by others.\nEveryone's already got their hands full.",
     "Enabled": true
   },
   "102020015150001": {
     "OriginalText": "まあ、進むか戻るかの判断は\nみんなに任せる。\nあたしはついていくから。",
-    "Text": "Well, it's up to you to decide whether we go\nforward or back. I'll just follow you.",
+    "Text": "Well, it's up to you to decide whether to\nkeep going or head back. I'll just follow\nyou.",
     "Enabled": true
   },
   "102020015160002": {
     "OriginalText": "そうか？ じゃあ、もう少しだけ進もうぜ。",
-    "Text": "Really? Then, let's move forward.",
+    "Text": "Really? Then, let's keep going.",
     "Enabled": true
   },
   "102020015161002": {
     "OriginalText": "１００個は無理でも\nもういくつか見つけられたら、\nこの辺にもっとあるって確信できるだろ？",
-    "Text": "Even if 100 is impossible, I think if we find\nsome, there's bound to be more\nhere, right?",
+    "Text": "Even if we can't manage 100, let's get at least\nsome more. There's got to be more here.",
     "Enabled": true
   },
   "102020015170001": {
@@ -2191,42 +2191,42 @@
   },
   "102020020030003": {
     "OriginalText": "デルタ・ヴァリアント、応答を！\n今の衝撃、観測できていますか？",
-    "Text": "Delta Valiant, please response!\nDid you detect the quake just now?",
+    "Text": "Delta Valiant, please respond!\nDid you feel the quake just now?",
     "Enabled": true
   },
   "102020020040007": {
     "OriginalText": "観測？ 何を言っているの！？\nさっさと逃げなさい！！",
-    "Text": "Detect? What are you saying!?\nGet out of there!!",
+    "Text": "Feel? That's your concern!?\nGet out of there!!",
     "Enabled": true
   },
   "102020020050007": {
     "OriginalText": "援軍がそちらに向かったわ。\n到着まで生きなさい！",
-    "Text": "Reinforcements are headed there.\nProtect yourself till they arrive.",
+    "Text": "Reinforcements are on the way.\nProtect yourselves until they arrive.",
     "Enabled": true
   },
   "102020020060007": {
     "OriginalText": "笑ったりしないから、逃げ回りなさい！",
-    "Text": "This isn't a joke, keep running around!",
+    "Text": "This isn't a joke, run away!",
     "Enabled": true
   },
   "102020020070007": {
     "OriginalText": "あと少し！ 回復も憎しまず使い切りなさい！",
-    "Text": "A little more! Don't forget to use your\nrecovery items!",
+    "Text": "Hang on! Don't forget to use your\nrecovery items!",
     "Enabled": true
   },
   "102020020080001": {
     "OriginalText": "何なの？ 何なのよあれは！？",
-    "Text": "What? What is that!?",
+    "Text": "What? What's that!?",
     "Enabled": true
   },
   "102020020090003": {
     "OriginalText": "大きすぎます……この火力では……！",
-    "Text": "It's so big... and what firepower!",
+    "Text": "It's huge...and heavily armed!",
     "Enabled": true
   },
   "102020020100002": {
     "OriginalText": "だめだ、攻撃が効いてる気がしねえ！",
-    "Text": "It's no good, I don't think our attacks\nare working!",
+    "Text": "We're in trouble, I don't think our attacks\nare doing anything to it!",
     "Enabled": true
   },
   "102020020110001": {
@@ -2236,7 +2236,7 @@
   },
   "102020020120003": {
     "OriginalText": "どう攻めていいか、分かりません……！",
-    "Text": "I don't know how we can attack...!",
+    "Text": "I don't know how we can fight this thing!",
     "Enabled": true
   },
   "102020020130002": {
@@ -2246,7 +2246,7 @@
   },
   "102020030010002": {
     "OriginalText": "援軍はまだなのか！！",
-    "Text": "Has backup not arrived yet?!",
+    "Text": "Where are the reinforcements?!",
     "Enabled": true
   },
   "102020030020004": {
@@ -2281,7 +2281,7 @@
   },
   "102020030061004": {
     "OriginalText": "まだグランが馴染んでねえのかよ！",
-    "Text": "I'm still not accustomed to Gran!",
+    "Text": "I guess I'm not used to Gran yet!",
     "Enabled": true
   },
   "102020030062004": {
